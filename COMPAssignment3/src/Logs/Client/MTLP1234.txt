@@ -1,0 +1,10 @@
+DATE: 2022-03-12 03:11:47 PM  login attempt
+DATE: 2022-03-12 03:11:47 PM  Patient Login successful
+DATE: 2022-03-12 03:11:51 PM  attempting to getAppointmentSchedule
+DATE: 2022-03-21 12:42:08 PM  login attempt
+DATE: 2022-03-21 12:42:08 PM  Patient Login successful
+DATE: 2022-03-21 12:42:14 PM  attempting to bookAppointment
+DATE: 2022-03-21 12:56:10 PM  login attempt
+DATE: 2022-03-21 12:56:10 PM  Patient Login successful
+DATE: 2022-03-21 12:56:16 PM  attempting to bookAppointment
+DATE: 2022-03-21 12:56:16 PM Patient Action:  bookAppointment | RequestParameters:  appointmentID: MTLM010101 appointmentType: Physician  | Server Response: Failed: Appointment MTLM010101 Does not exists

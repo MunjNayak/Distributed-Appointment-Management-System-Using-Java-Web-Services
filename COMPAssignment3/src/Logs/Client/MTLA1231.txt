@@ -1,0 +1,3 @@
+DATE: 2022-03-12 06:39:10 PM  login attempt
+DATE: 2022-03-12 06:39:10 PM  Admin Login successful
+DATE: 2022-03-12 06:39:21 PM  attempting to addAppointment

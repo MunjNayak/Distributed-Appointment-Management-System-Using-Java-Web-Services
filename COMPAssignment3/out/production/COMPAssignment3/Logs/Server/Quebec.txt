@@ -1,0 +1,18 @@
+DATE: 2022-03-10 04:13:39 PM  Server Started
+DATE: 2022-03-10 04:13:41 PM  Server is Up and Running
+DATE: 2022-03-10 04:13:41 PM  UDP Server Started at port 7777
+DATE: 2022-03-10 11:30:27 PM  Server Started
+DATE: 2022-03-10 11:30:29 PM  Server is Up and Running
+DATE: 2022-03-10 11:30:29 PM  UDP Server Started at port 7777
+DATE: 2022-03-10 11:34:37 PM  Server Started
+DATE: 2022-03-10 11:34:37 PM  Server is Up and Running
+DATE: 2022-03-10 11:34:37 PM  UDP Server Started at port 7777
+DATE: 2022-03-10 11:38:59 PM  Server Started
+DATE: 2022-03-10 11:39:00 PM  Server is Up and Running
+DATE: 2022-03-10 11:39:00 PM  UDP Server Started at port 7777
+DATE: 2022-03-10 11:42:29 PM  Server Started
+DATE: 2022-03-10 11:42:30 PM  Server is Up and Running
+DATE: 2022-03-10 11:42:30 PM  UDP Server Started at port 7777
+DATE: 2022-03-10 11:44:32 PM  Server Started
+DATE: 2022-03-10 11:44:33 PM  Server is Up and Running
+DATE: 2022-03-10 11:44:33 PM  UDP Server Started at port 7777
